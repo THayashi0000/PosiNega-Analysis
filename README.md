@@ -1,0 +1,2 @@
+# PosiNega-Analysis
+投稿文章のポジティブネガティブ分析のPythonコードです
